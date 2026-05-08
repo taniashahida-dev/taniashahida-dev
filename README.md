@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tania%20Shahida&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Product%20Builder%20%7C%20MERN%20Developer&descAlignY=58&descAlign=50&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tania%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Product%20Builder%20%7C%20MERN%20Developer&descAlignY=58&descAlign=50&descSize=18" />
 
 <!-- Typing Animation -->
 <a href="https://github.com/taniashahida-dev">
@@ -93,15 +93,6 @@ const tania = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=taniashahida-dev&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
 
 ## 🌊 Full-Stack Architecture Mindset
 
@@ -137,7 +128,7 @@ CLIENT SIDE                 SERVER SIDE                  DATA LAYER
 | Platform | Link |
 |:--------:|:----:|
 | 🐙 GitHub | [taniashahida-dev](https://github.com/taniashahida-dev) |
-| 💼 LinkedIn | [Connect with Tania]([https://linkedin.com](https://www.linkedin.com/in/tania9) |
+| 💼 LinkedIn | [Connect with Tania](https://www.linkedin.com/in/tania9) |
 | 🌐 Portfolio | [View Portfolio](https://github.com/taniashahida-dev) |
 | 📧 Email | [Drop a Message](taniashahida993@gmail.com) |
 
