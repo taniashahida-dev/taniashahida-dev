@@ -1,27 +1,23 @@
-<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:003300,60:006600,100:00FF41&height=250&section=header&text=Tania&fontSize=80&fontColor=00FF41&fontAlignY=40&desc=⚡%20MERN%20Stack%20Developer%20⚡&descAlignY=62&descSize=20&animation=twinkling&stroke=00FF41&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,50:1a0533,100:2d1b69&height=280&section=header&text=Tania&fontSize=90&fontColor=fff&fontAlignY=45&desc=✦%20Full%20Stack%20MERN%20Developer%20✦&descSize=22&descAlignY=67&descColor=b19cd9&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
 
 </div>
 
-<!-- MATRIX TYPING EFFECT -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Matrix+Code+NFI&size=28&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=60&lines=%3E+Initializing+MERN+Stack...;%3E+MongoDB+Connected+✓;%3E+Express.js+Running+✓;%3E+React.js+Rendering+✓;%3E+Node.js+Active+✓;%3E+System+Ready+—+Let%27s+Build+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=20&pause=1200&color=B19CD9&center=true&vCenter=true&width=650&lines=Crafting+scalable+full-stack+web+applications;MongoDB+%E2%80%A2+Express.js+%E2%80%A2+React.js+%E2%80%A2+Node.js;Turning+ideas+into+elegant+digital+products;Available+for+exciting+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- CONNECT BADGES -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tania9/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2300FF41.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/taniashahida-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF41.svg?style=for-the-badge&logo=firefox&logoColor=black)](#)
-[![Email](https://img.shields.io/badge/Email-%2300FF41.svg?style=for-the-badge&logo=gmail&logoColor=black)](mailto:your@email.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=taniashahida-dev&color=00FF41&style=for-the-badge&label=VISITORS)](https://github.com/taniashahida-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tania9/)
+[![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniashahida-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-5b21b6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -29,209 +25,167 @@
 
 ---
 
-<!-- ABOUT ME TERMINAL BLOCK -->
-## 🖥️ `~/tania --whoami`
+<br/>
 
-```bash
-┌──(tania㉿mern-stack)-[~]
-└─$ whoami
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-  ╔══════════════════════════════════════════════════════╗
-  ║           MERN STACK DEVELOPER  ⚡                   ║
-  ║                                                      ║
-  ║  Name     →  Tania                                   ║
-  ║  Role     →  Full Stack MERN Developer               ║
-  ║  Stack    →  MongoDB | Express | React | Node        ║
-  ║  Focus    →  Scalable Apps · REST APIs · Clean UI    ║
-  ║  Status   →  Open to Work ✅                         ║
-  ║  Learning →  Next.js · Docker           ║
-  ║  Motto    →  "I don't just write code, I craft       ║
-  ║               experiences." 🚀                       ║
-  ╚══════════════════════════════════════════════════════╝
+## 🪄 About Me
 
-┌──(tania㉿mern-stack)-[~]
-└─$ cat skills.json
+<br/>
 
-{
-  "frontend"  : ["React.js", "Redux", "Tailwind CSS", "HTML5", "CSS3"],
-  "backend"   : ["Node.js", "Express.js", "REST APIs", "JWT Auth"],
-  "database"  : ["MongoDB", "Mongoose", "Firebase"],
-  "devtools"  : ["Git", "GitHub", "Postman", "VS Code", "Vercel"]
-}
+```yaml
+# tania.config.yml
+
+profile:
+  name       : Tania
+  title      : MERN Stack Developer
+  available  : true ✅
+
+expertise:
+  - Full Stack Web Development
+  - RESTful API Architecture
+  - Responsive UI/UX Design
+  - Database Design & Optimization
+
+stack:
+  frontend   : [ React, Tailwind, JavaScript ]
+  backend    : [ Node.js, Express.js, JWT ]
+  database   : [ MongoDB, Mongoose, Firebase ]
+  devtools   : [ Git,VS Code, Vercel ]
+
+currently:
+  learning   : [ Next.js, Docker ]
+  building   : Full Stack MERN Applications
+
+open_to:
+  - Full-time Roles
+  - Freelance Projects
+  - Collaborations
 ```
 
----
-
-<!-- MERN STACK VISUAL -->
-## ⚡ The MERN Stack — My Domain
-
-<div align="center">
-
-```
-╔═══════════╗     ╔══════════════╗     ╔═══════════╗     ╔═══════════╗
-║           ║     ║              ║     ║           ║     ║           ║
-║  MongoDB  ║────▶║  Express.js  ║────▶║  React.js ║────▶║  Node.js  ║
-║           ║     ║              ║     ║           ║     ║           ║
-║ 🍃 Data   ║     ║ ⚙️  API      ║     ║ ⚛️  UI    ║     ║ 🟢 Server ║
-╚═══════════╝     ╚══════════════╝     ╚═══════════╝     ╚═══════════╝
-      ▲                                                        │
-      └────────────────────────────────────────────────────────┘
-                         Full Stack Loop ♻️
-```
-
-</div>
-
----
-
-<!-- TECH STACK BADGES -->
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**〔 Frontend 〕**
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FF41)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FF41)
-
-**〔 Backend 〕**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=00FF41)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=00FF41)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF41)
-![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socket.io&logoColor=00FF41)
-
-**〔 Database 〕**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF41)
-![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=00FF41)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00FF41)
-
-**〔 Tools & Deploy 〕**
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00FF41)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00FF41)
-![npm](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=00FF41)
-
-</div>
-
----
-
-<!-- GITHUB STATS -->
-## 📊 GitHub Matrix
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=taniashahida-dev&show_icons=true&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=000000" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taniashahida-dev&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00AA33&sideNums=00FF41&currStreakNum=ffffff" />
-
-</div>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniashahida-dev&layout=donut&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=000000&langs_count=6" />
-
-</div>
-
----
-
-<!-- TROPHIES -->
-## 🏆 Hall of Fame
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=taniashahida-dev&theme=matrix&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Activity Grid
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taniashahida-dev&bg_color=000000&color=00FF41&line=00FF41&point=00FF41&area_color=003300&area=true&hide_border=true&custom_title=Tania's%20Contribution%20Matrix)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- SKILLS TABLE -->
-## 💡 Core Strengths
-
-<div align="center">
-
-```
- ┌─────────────────────────────────────────────────────────────┐
- │                    SKILL  MATRIX                            │
- ├──────────────────────┬──────────────────────────────────────┤
- │  ⚛️  React           │  ████████████████████  Expert        │
- │  🟢  Node + Express  │  ████████████████████  Expert        │
- │  🍃  MongoDB         │  ████████████████████  Expert        │
- │  🎨  Responsive UI   │  ███████████████████░  Advanced      │
- │  🔐  JWT Auth & API  │  ███████████████████░  Advanced      │
- │  🐙  Git & GitHub    │  ██████████████████░░  Advanced      │
- │  📦  Next JS         │  ████████████░░░░░░░░  Learning      │
- │  🐳  Fire Base       │  █████████░░░░░░░░░░░  Learning      │
- └──────────────────────┴──────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<!-- QUOTE + CTA -->
-## 🌐 Let's Connect & Create
-
-<div align="center">
-
-<br/>
-
-```javascript
-while (alive) {
-  eat();
-  sleep();
-  code();  // 🟢 this one runs the most
-  repeat();
-}
-```
-
-<br/>
-
-> *"Any application that can be written in JavaScript, will eventually be written in JavaScript."*
-> — **Atwood's Law** *(and Tania lives by it)*
-
-<br/>
-
-### 🤝 I'm available for:
-
-`💼 Full-time Roles` &nbsp;·&nbsp; `🚀 Freelance Projects` &nbsp;·&nbsp; `🔓 Open Source` &nbsp;·&nbsp; `🤝 Collaborations`
-
-<br/>
-
-[![Let's Connect](https://img.shields.io/badge/💬_Let's_Connect_on_LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/tania9/)
-&nbsp;&nbsp;
-[![Follow on GitHub](https://img.shields.io/badge/⭐_Follow_on_GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/taniashahida-dev)
+<br clear="right"/>
 
 <br/>
 
 ---
 
-*`> System designed & maintained by Tania — MERN Stack Developer_`* 🟢
+## 🛠️ Tech Stack
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,40:006600,70:003300,100:000000&height=150&section=footer&text=Keep%20Building.%20Keep%20Growing.&fontSize=20&fontColor=00FF41&fontAlignY=65&animation=twinkling" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux&theme=dark&perline=6" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jwt&theme=dark&perline=6" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark&perline=6" />
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=taniashahida-dev&show_icons=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=b19cd9&icon_color=7c3aed&text_color=e2d9f3&ring_color=7c3aed" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taniashahida-dev&hide_border=true&background=0a0a0f&stroke=7c3aed&ring=7c3aed&fire=a855f7&currStreakLabel=b19cd9&sideLabels=b19cd9&dates=6d28d9&sideNums=b19cd9&currStreakNum=ffffff" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniashahida-dev&layout=donut-vertical&hide_border=true&bg_color=0a0a0f&title_color=b19cd9&text_color=e2d9f3&langs_count=6" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 Achievements
+
+<br/>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=taniashahida-dev&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taniashahida-dev&bg_color=0a0a0f&color=b19cd9&line=7c3aed&point=ffffff&area=true&area_color=2d1b69&hide_border=true&custom_title=Tania%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+## ✨ What I Deliver
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | Skill | What it means for you |
+|:---:|:---|:---|
+| 🏗️ | **End-to-End MERN Apps** | From database schema to pixel-perfect UI — fully handled |
+| ⚡ | **Performance First** | Fast load times, optimized queries, smooth experience |
+| 🔐 | **Secure by Default** | JWT auth, input validation, protected routes — always |
+| 🎨 | **Beautiful Interfaces** | Responsive, accessible, modern UI that users love |
+| 📦 | **Clean Architecture** | Modular, readable, scalable code with zero clutter |
+| 🚀 | **Ship Fast** | Rapid development with attention to every detail |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20don't%20just%20write%20code%20—%20I%20craft%20digital%20experiences%20that%20matter.&author=Tania" />
+
+<br/><br/>
+
+### 💼 Open to Work — Let's Build Together
+
+<br/>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/✦_Connect_on_LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tania9/)
+&nbsp;
+[![Follow on GitHub](https://img.shields.io/badge/✦_Follow_on_GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniashahida-dev)
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=taniashahida-dev&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0a0a0f&height=160&section=footer&text=Keep%20Creating.%20Keep%20Growing.&fontSize=18&fontColor=b19cd9&fontAlignY=65&animation=fadeIn" />
 
 </div>
