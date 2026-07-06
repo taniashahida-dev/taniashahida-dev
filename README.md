@@ -3,11 +3,10 @@
  GitHub Profile README
  Replace the following placeholders:
 ------------------------------------------
-YOUR_USERNAME      -> Your GitHub username
-YOUR_LINKEDIN      -> Your LinkedIn profile URL
-YOUR_PORTFOLIO     -> Your portfolio URL
-YOUR_TWITTER       -> Your Twitter/X profile (optional)
-YOUR_EMAIL         -> Your email address
+YOUR_USERNAME      -> taniashahida-dev
+YOUR_LINKEDIN      -> https://www.linkedin.com/in/tania9
+YOUR_PORTFOLIO     -> https://tania-webdev.vercel.app
+YOUR_EMAIL         -> taniia.webdev@gmail.com
 ==========================================
 -->
 
@@ -128,19 +127,6 @@ Currently, I'm strengthening my expertise in modern JavaScript technologies whil
 
 ---
 
-# 📁 Featured Projects
-
-<!--
-Replace these with your real repositories.
--->
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚀 Personal Finance Tracker | Modern finance management application with analytics dashboard | Next.js • Express • MongoDB |
-| 📚 Fable Ebook Platform | Ebook sharing platform with authentication, payments, and dashboards | React • Node.js • MongoDB |
-| 💼 Portfolio Website | Personal portfolio showcasing projects and skills | Next.js • Tailwind CSS |
-
----
 
 # 📊 GitHub Analytics
 
