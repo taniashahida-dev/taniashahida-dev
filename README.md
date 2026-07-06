@@ -1,177 +1,243 @@
+<!--
+  ============================================================
+  GITHUB PROFILE README — Tania Shahida
+  ============================================================
+  HOW TO USE THIS FILE:
+  1. Create a repository with the SAME name as your GitHub username
+     (e.g., if your username is "tania-shahida", the repo must be
+     named "tania-shahida"). GitHub will automatically render this
+     file on your profile page.
+  2. Replace ALL placeholders marked like <YOUR_USERNAME>, <YOUR_EMAIL>,
+     <YOUR_LINKEDIN>, <YOUR_PORTFOLIO_URL>, etc. Search for "REPLACE"
+     to find every spot that needs your personal info.
+  3. Delete this comment block before publishing (optional but recommended).
+  ============================================================
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f1f,40:1A3636,70:40534C,100:677D6A&height=260&section=header&text=Tania&fontSize=85&fontColor=D6BD98&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20MERN%20Developer&descSize=20&descAlignY=64&descColor=a89070&animation=fadeIn&stroke=D6BD98&strokeWidth=1" />
+<!-- Animated Typing Banner — REPLACE lines param with your own taglines if desired -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2E7D32&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Tania+Shahida+%F0%9F%91%8B;Full+Stack+Web+Developer;Computer+Science+Student;Building+Clean+%26+Scalable+Web+Apps;Currently+Mastering+Next.js+%26+System+Design" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&pause=1200&color=D6BD98&center=true&vCenter=true&width=680&lines=MongoDB+•+Express.js+•+React.js+•+Node.js;Building+elegant+%26+scalable+web+applications;Clean+code+%7C+Thoughtful+design+%7C+Real+impact;Open+to+exciting+opportunities+✨)](https://git.io/typing-svg)
+<!-- Social Badges — REPLACE all URLs/handles below with your own -->
+<p>
+  <a href="https://linkedin.com/in/<YOUR_LINKEDIN>" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:<YOUR_EMAIL>">
+    <img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://<YOUR_PORTFOLIO_URL>" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/<YOUR_USERNAME>" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/<YOUR_TWITTER_HANDLE>" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A3636?style=for-the-badge&logo=linkedin&logoColor=D6BD98)](https://www.linkedin.com/in/tania9/)
-[![GitHub](https://img.shields.io/badge/GitHub-40534C?style=for-the-badge&logo=github&logoColor=D6BD98)](https://github.com/taniashahida-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-677D6A?style=for-the-badge&logo=vercel&logoColor=D6BD98)](#)
-[![Email](https://img.shields.io/badge/Email-1A3636?style=for-the-badge&logo=gmail&logoColor=D6BD98)](mailto:your@email.com)
-[![Views](https://komarev.com/ghpvc/?username=taniashahida-dev&color=40534C&style=for-the-badge&label=VISITORS)](https://github.com/taniashahida-dev)
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=<YOUR_USERNAME>&label=Profile%20Views&color=2E7D32&style=flat" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
----
+## 👩‍💻 About Me
 
-<br/>
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
-
-## 🌿 Hello, I'm Tania
-
-I'm a **Full Stack MERN Developer** who loves building
-products that are as beautiful on the inside as they
-are on the outside.
-
-- 🔭 &nbsp; Building **scalable full-stack web apps**
-- ⚡ &nbsp; Obsessed with **clean code** & **great UX**
-- 🌱 &nbsp; Currently leveling up in **Express.js & Next.js**
-- 🤝 &nbsp; Open to **freelance**, **full-time** & **collabs**
-- ✨ &nbsp; I turn complex problems into simple solutions
-
-<br/>
-
-```ts
-const tania: Developer = {
-  stack    : ["MongoDB", "Express", "React", "Node"],
-  building : "Full Stack MERN Applications",
-  learning : [ "Next.js", "Docker"],
-  motto    : "Ship fast. Scale smart. Design well.",
+```text
+const tania = {
+    role: "Full Stack Web Developer | Computer Science Student",
+    focus: "Building scalable, responsive & user-friendly web applications",
+    approach: "Clean, maintainable code with real-world problem solving",
+    currentlyLearning: ["Advanced Next.js", "System Design", "PostgreSQL", "Docker", "TypeScript", "Clean Architecture"],
+    goal: "Becoming a Software Engineer & pursuing higher studies in Europe on a scholarship 🎓",
 };
 ```
 
-<br clear="right"/>
+- 🚀 Passionate about building **scalable, responsive, and user-friendly** web applications.
+- 🧩 I enjoy solving real-world problems through **clean and maintainable code**.
+- ⚙️ Currently sharpening my skills in **modern JavaScript technologies**.
+- 📚 I love learning new technologies and continuously building projects.
+- 🎯 My goal is to become a **Software Engineer** and pursue higher studies in **Europe** with a scholarship.
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+
+</details>
+
+<details open>
+<summary><b>Backend</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+
+</details>
+
+<details open>
+<summary><b>Database</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+
+</details>
+
+<details open>
+<summary><b>Authentication</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Authentication"/>
+
+</details>
+
+<details open>
+<summary><b>Tools & Platforms</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+
+</details>
 
 <br/>
 
-**— Frontend —**
+## 🎯 Current Focus
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,redux,bootstrap&theme=dark&perline=7" />
+- 🔭 Deepening expertise in **Advanced Next.js** patterns (App Router, SSR, ISR).
+- 🧠 Studying **System Design** fundamentals for scalable architecture.
+- 🐘 Learning **PostgreSQL** to complement my NoSQL experience.
+- 🐳 Exploring **Docker** for containerized development workflows.
+- 🟦 Strengthening type safety with **TypeScript**.
+- 🏛️ Applying **Clean Architecture** principles to real-world projects.
 
-<br/><br/>
+<br/>
 
-**— Backend & Database —**
+## 💡 Fun Fact
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark&perline=7" />
+> I enjoy refactoring messy code almost as much as writing new features — there's something deeply satisfying about turning tangled logic into something clean and readable. ☕
 
-<br/><br/>
+<br/>
 
-**— Tools & Deployment —**
+## 🤝 Open to Collaboration
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&theme=dark&perline=7" />
+I'm actively open to:
+
+- 🌍 **Open-source contributions** in React, Next.js, or Node.js based projects.
+- 💼 **Internship and Junior Software Engineer opportunities.**
+- 🧑‍🤝‍🧑 **Pair programming** and collaborative learning.
+- 📦 **Freelance / side projects** involving full-stack web development.
+
+Feel free to reach out — I'm always happy to connect with fellow developers and mentors!
+
+<br/>
+
+## 📂 Portfolio
+
+<!-- REPLACE the link and (optionally) the screenshot below with your own portfolio details -->
+<div align="center">
+
+### 🌐 [View My Portfolio →](https://<YOUR_PORTFOLIO_URL>)
+
+Explore my featured projects, case studies, and technical write-ups.
 
 </div>
 
 <br/>
 
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<!-- GitHub Stats Card — REPLACE <YOUR_USERNAME> -->
+<img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=2E7D32&icon_color=2E7D32&text_color=333333" alt="GitHub Stats" width="49%"/>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&hide_border=true&theme=default&title_color=2E7D32&text_color=333333" alt="Top Languages" width="42%"/>
+
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=taniashahida-dev&show_icons=true&count_private=true&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&icon_color=677D6A&text_color=a89878&ring_color=40534C" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=taniashahida-dev&hide_border=true&background=0d1f1f&stroke=40534C&ring=677D6A&fire=D6BD98&currStreakLabel=D6BD98&sideLabels=a89878&dates=677D6A&sideNums=D6BD98&currStreakNum=ffffff" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniashahida-dev&layout=donut&hide_border=true&bg_color=0d1f1f&title_color=D6BD98&text_color=a89878&langs_count=6" />
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=<YOUR_USERNAME>&hide_border=true&theme=default&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
 
----
-
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=taniashahida-dev&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- REPLACE <YOUR_USERNAME> -->
+<img src="https://github-profile-trophy.vercel.app/?username=<YOUR_USERNAME>&theme=flat&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 
 </div>
 
 <br/>
-
----
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taniashahida-dev&bg_color=0d1f1f&color=D6BD98&line=677D6A&point=D6BD98&area=true&area_color=1A3636&hide_border=true&custom_title=Tania's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
----
-
-## 💼 What I Bring
-
-<div align="center">
-
-<br/>
-
-|  | &nbsp;&nbsp;Strength | &nbsp;&nbsp;Details |
-|:---:|:---|:---|
-| 🏗️ | **Full-Stack MERN** | End-to-end apps — DB design to polished UI |
-| ⚡ | **Performance** | Fast, optimized, smooth user experience |
-| 🔐 | **Security** | JWT, protected routes, validated APIs |
-| 🎨 | **Beautiful UI** | Pixel-perfect, responsive, modern design |
-| 📦 | **Clean Code** | Modular, readable, maintainable always |
-| 🚀 | **Fast Delivery** | Efficient workflow, on time, every time |
+<!-- REPLACE <YOUR_USERNAME> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=<YOUR_USERNAME>&theme=minimal&hide_border=true&color=2E7D32&line=2E7D32&point=333333" alt="Contribution Graph"/>
 
 </div>
 
 <br/>
 
----
+## 📬 Contact Me
+
+<div align="center">
+
+<!-- REPLACE all contact details below with your own -->
+<a href="mailto:<YOUR_EMAIL>">
+  <img src="https://img.shields.io/badge/Email-2E7D32?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/<YOUR_LINKEDIN>" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://<YOUR_PORTFOLIO_URL>" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A3636&height=2&width=60%" />
+### 💬 *"Clean code always looks like it was written by someone who cares."*
+**— Robert C. Martin**
 
-<br/><br/>
-
-> *" I don't just write code — I craft digital experiences that leave a mark. "*
-
-<br/>
-
-### 🤝 Let's work together
-
-`Full-time` &nbsp;·&nbsp; `Freelance` &nbsp;·&nbsp; `Open Source` &nbsp;·&nbsp; `Collaboration`
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-1A3636?style=for-the-badge&logo=linkedin&logoColor=D6BD98)](https://www.linkedin.com/in/tania9/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-40534C?style=for-the-badge&logo=github&logoColor=D6BD98)](https://github.com/taniashahida-dev)
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:677D6A,40:40534C,70:1A3636,100:0d1f1f&height=160&section=footer&text=Keep+Building.+Keep+Growing.&fontSize=18&fontColor=D6BD98&fontAlignY=62&animation=fadeIn" />
-
+<div align="center">
+  <sub>Thank you for visiting my profile! ⭐ Feel free to explore my repositories and reach out if you'd like to collaborate.</sub>
 </div>
