@@ -7,9 +7,8 @@
      GitHub username (e.g. if your username is "janedoe", the
      repo must be named "janedoe"). GitHub will automatically
      show this README on your profile page.
-  2. Replace ALL placeholders marked like this: YOUR_USERNAME,
-     YOUR_LINKEDIN, YOUR_EMAIL, YOUR_PORTFOLIO_URL, etc.
-     Search for "REPLACE" in this file to find every spot.
+  2. All personal details (username, LinkedIn, portfolio, email)
+     are already filled in below — no placeholders remain.
   3. Delete this comment block before publishing (optional).
   ============================================================
 -->
@@ -17,23 +16,20 @@
 <div align="center">
 
 <!-- ============ ANIMATED TYPING BANNER ============ -->
-<!-- REPLACE the lines= text with your own taglines. Powered by readme-typing-svg (no setup required). -->
 <a href="https://github.com/taniashahida-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Clean%2C+Scalable+Web+Apps;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Clean%2C+Scalable+Web+Apps;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ============ NAME / TAGLINE ============ -->
-<!-- REPLACE "Your Name" with your actual name -->
-# Hi, I'm Tania 👋
+# Hi, I'm Tania Shahida 👋
 
 **Full Stack Web Developer** focused on building fast, accessible, and elegant web applications.
 
 <!-- ============ SOCIAL BADGES ============ -->
-<!-- REPLACE all URLs below with your actual profile links -->
 <p>
-  <a href="https://www.linkedin.com/in/tania9">
+  <a href="https://linkedin.com/in/tania9">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:taniia.webdev@gmail.com">
@@ -42,11 +38,10 @@
   <a href="https://tania-webdev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  
 </p>
 
 <!-- ============ PROFILE VIEWS BADGE ============ -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=taniashahida-dev&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -106,86 +101,26 @@ I'm a Full Stack Developer who enjoys turning ideas into clean, production-ready
 ## 📊 GitHub Statistics
 
 <!-- These widgets are powered by github-readme-stats (auto-updating, no setup needed beyond the username). -->
-<!-- REPLACE YOUR_USERNAME in every image URL below. -->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=taniashahida-dev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniashahida-dev&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=taniashahida-dev&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniashahida-dev&layout=compact&hide_border=true&theme=dark&bg_color=0D1117" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taniashahida-dev&theme=default&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taniashahida-dev&theme=dark&background=0D1117&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taniashahida-dev&theme=minimal&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taniashahida-dev&theme=github-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%"/>
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=taniashahida-dev&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💼 Featured Projects
-
-<!-- REPLACE each project's title, description, tech badges, and links -->
-
-<table>
-<tr>
-<td width="50%">
-
-### 💰 ExpenseWise
-Personal finance management web app with dashboards, budgeting tools, and analytics.
-
-`React` `Tailwind CSS` `heroui` `Recharts`
-
-[🔗 Live Demo](https://REPLACE-live-link.com) · [📂 Source Code](https://github.com/taniashahida-dev/expensewise)
-
-</td>
-<td width="50%">
-
-### 🚀 Project Two
-Short one- or two-line description of what this project does and the problem it solves.
-
-`Next.js` `TypeScript` `PostgreSQL`
-
-[🔗 Live Demo](https://REPLACE-live-link.com) · [📂 Source Code](https://github.com/taniashahida-dev/project-two)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 Project Three
-Short one- or two-line description of what this project does and the problem it solves.
-
-`Node.js` `Express` `MongoDB`
-
-[🔗 Live Demo](https://REPLACE-live-link.com) · [📂 Source Code](https://github.com/taniashahida-dev/project-three)
-
-</td>
-<td width="50%">
-
-### 📱 Project Four
-Short one- or two-line description of what this project does and the problem it solves.
-
-`React Native` `Firebase`
-
-[🔗 Live Demo](https://REPLACE-live-link.com) · [📂 Source Code](https://github.com/taniashahida-dev/project-four)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-📁 **See all projects on my [Portfolio Website](https://tania-webdev.vercel.app)**
-
+<img src="https://github-profile-trophy.vercel.app/?username=taniashahida-dev&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -236,14 +171,13 @@ Feel free to reach out if you'd like to collaborate or just talk tech!
 
 ## 📬 Contact Me
 
-<!-- REPLACE all links below with your actual details -->
 
 <div align="center">
 
 <a href="mailto:taniia.webdev@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/tania9">
+<a href="https://linkedin.com/in/tania9">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://tania-webdev.vercel.app">
