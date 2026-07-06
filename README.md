@@ -1,289 +1,265 @@
 <!--
-==========================================
- GitHub Profile README
- Replace the following placeholders:
-------------------------------------------
-YOUR_USERNAME      -> taniashahida-dev
-YOUR_LINKEDIN      -> https://www.linkedin.com/in/tania9
-YOUR_PORTFOLIO     -> https://tania-webdev.vercel.app
-YOUR_EMAIL         -> taniia.webdev@gmail.com
-==========================================
+  ============================================================
+  PROFESSIONAL GITHUB PROFILE README
+  ============================================================
+  HOW TO USE THIS FILE:
+  1. Create a new public repository with the SAME NAME as your
+     GitHub username (e.g. if your username is "janedoe", the
+     repo must be named "janedoe"). GitHub will automatically
+     show this README on your profile page.
+  2. Replace ALL placeholders marked like this: YOUR_USERNAME,
+     YOUR_LINKEDIN, YOUR_EMAIL, YOUR_PORTFOLIO_URL, etc.
+     Search for "REPLACE" in this file to find every spot.
+  3. Delete this comment block before publishing (optional).
+  ============================================================
 -->
 
-<h1 align="center">
-Hi 👋, I'm Tania Shahida
-</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Web Developer • Computer Science Student
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;Passionate+About+Clean+Code;Always+Learning+New+Technologies;Future+Software+Engineer" alt="Typing SVG" />
-</p>
-
----
-
-## 💫 About Me
-
-I'm a **Full Stack Web Developer** and **Computer Science Student** passionate about building modern, scalable, and user-friendly web applications.
-
-I enjoy transforming ideas into real products through clean architecture, maintainable code, and intuitive user experiences.
-
-Currently, I'm strengthening my expertise in modern JavaScript technologies while continuously exploring software engineering best practices.
-
-> **Long-term Goal:** Become a Software Engineer and pursue higher studies in Europe with a scholarship.
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<!-- Replace YOUR_LINKEDIN -->
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- ============ ANIMATED TYPING BANNER ============ -->
+<!-- REPLACE the lines= text with your own taglines. Powered by readme-typing-svg (no setup required). -->
+<a href="https://github.com/taniashahida-dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Clean%2C+Scalable+Web+Apps;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 </a>
 
-<!-- Replace YOUR_PORTFOLIO -->
+<br/>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<!-- ============ NAME / TAGLINE ============ -->
+<!-- REPLACE "Your Name" with your actual name -->
+# Hi, I'm Tania 👋
 
-<!-- Replace YOUR_EMAIL -->
+**Full Stack Web Developer** focused on building fast, accessible, and elegant web applications.
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<!-- Replace YOUR_TWITTER -->
-
-<a href="YOUR_TWITTER">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Frontend
-
+<!-- ============ SOCIAL BADGES ============ -->
+<!-- REPLACE all URLs below with your actual profile links -->
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
-
+  <a href="https://www.linkedin.com/in/tania9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:taniia.webdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://tania-webdev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  
 </p>
 
-### Backend
+<!-- ============ PROFILE VIEWS BADGE ============ -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile Views"/>
 
-<p>
+</div>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-</p>
-
-### Authentication
-
-<p>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel" />
-
-</p>
+<br/>
 
 ---
 
-# 🚀 Current Focus
+## 🧭 About Me
 
-- Advanced Next.js
-- System Design
-- PostgreSQL
-- Docker
-- TypeScript
-- Clean Architecture
-- Writing scalable backend APIs
-- Building production-ready full stack applications
+I'm a Full Stack Developer who enjoys turning ideas into clean, production-ready products. I care about readable code, thoughtful UI, and building things people actually enjoy using.
+
+- 🔭 Currently building **ExpenseWise** — a modern personal finance web app (React, Tailwind CSS, shadcn/ui, Recharts)
+- 🌱 Deepening my knowledge of system design and backend architecture
+- 🤝 Open to internship and junior full-stack opportunities
+- ⚡ Fun fact: I debug faster with coffee ☕ than without it
 
 ---
 
+## 🛠️ Tech Stack
 
-# 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
+**Languages**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+**Frontend**
 
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
 
----
+**Backend & Database**
 
-# 🔥 GitHub Streak
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<p align="center">
+**Tools & Platforms**
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📌 Professional Highlights
+## 📊 GitHub Statistics
 
-- 💻 Passionate about Full Stack Development
-- ⚡ Focused on writing clean and maintainable code
-- 🌱 Lifelong learner with a growth mindset
-- 🚀 Interested in scalable web architecture
-- 🤝 Love collaborating on meaningful projects
-- 📚 Strong believer in continuous improvement
+<!-- These widgets are powered by github-readme-stats (auto-updating, no setup needed beyond the username). -->
+<!-- REPLACE YOUR_USERNAME in every image URL below. -->
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=taniashahida-dev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniashahida-dev&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taniashahida-dev&theme=default&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taniashahida-dev&theme=minimal&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=taniashahida-dev&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<!-- REPLACE each project's title, description, tech badges, and links -->
+
+<table>
+<tr>
+<td width="50%">
+
+### 💰 ExpenseWise
+Personal finance management web app with dashboards, budgeting tools, and analytics.
+
+`React` `Tailwind CSS` `heroui` `Recharts`
+
+[🔗 Live Demo](https://REPLACE-live-link.com) · [📂 Source Code](https://github.com/taniashahida-dev/expensewise)
+
+</td>
+<td width="50%">
+
+### 🚀 Project Two
+Short one- or two-line description of what this project does and the problem it solves.
+
+`Next.js` `TypeScript` `PostgreSQL`
+
+[🔗 Live Demo](https://REPLACE-live-link.com) · [📂 Source Code](https://github.com/taniashahida-dev/project-two)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 Project Three
+Short one- or two-line description of what this project does and the problem it solves.
+
+`Node.js` `Express` `MongoDB`
+
+[🔗 Live Demo](https://REPLACE-live-link.com) · [📂 Source Code](https://github.com/taniashahida-dev/project-three)
+
+</td>
+<td width="50%">
+
+### 📱 Project Four
+Short one- or two-line description of what this project does and the problem it solves.
+
+`React Native` `Firebase`
+
+[🔗 Live Demo](https://REPLACE-live-link.com) · [📂 Source Code](https://github.com/taniashahida-dev/project-four)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+📁 **See all projects on my [Portfolio Website](https://tania-webdev.vercel.app)**
+
+</div>
 
 ---
 
 <details>
+<summary><strong>🧩 Currently Learning</strong> (click to expand)</summary>
+<br/>
 
-<summary><b>🎯 Career Objective</b></summary>
+- System design fundamentals for scalable web applications
+- Advanced TypeScript patterns and type-safe API design
+- Testing strategies with Jest and Playwright
 
-<br>
+</details>
 
-My mission is to build software that solves real-world problems while continuously growing as a software engineer.
+<details>
+<summary><strong>🎯 Current Focus</strong> (click to expand)</summary>
+<br/>
 
-I'm actively looking for opportunities where I can contribute, collaborate, learn from experienced engineers, and create impactful products.
+- Building **ExpenseWise** end-to-end, from UI to backend integration
+- Sharpening backend and database design skills
+- Preparing for internship/junior full-stack developer roles
+- Writing cleaner, more maintainable, well-tested code
+
+</details>
+
+<details>
+<summary><strong>😄 Fun Fact</strong> (click to expand)</summary>
+<br/>
+
+I once refactored a 500-line component into 5 clean ones — and then immediately broke production with a missing semicolon. Lesson learned: tests exist for a reason. 😅
 
 </details>
 
 ---
 
-<details>
+## 🤝 Open to Collaboration
 
-<summary><b>📖 Currently Learning</b></summary>
+I'm actively open to:
 
-<br>
+- 💼 Internship and junior full-stack developer opportunities
+- 🤝 Open-source contributions and collaborative projects
+- 💡 Freelance frontend/full-stack work
+- 📚 Mentorship exchanges — happy to learn, happy to help others
 
-- Advanced Next.js
-- System Design
-- Docker
-- PostgreSQL
-- TypeScript
-- Clean Architecture
-- Backend Performance Optimization
-- Authentication & Security Best Practices
-
-</details>
+Feel free to reach out if you'd like to collaborate or just talk tech!
 
 ---
 
-<details>
+## 📬 Contact Me
 
-<summary><b>🤝 Open To Collaboration</b></summary>
+<!-- REPLACE all links below with your actual details -->
 
-<br>
+<div align="center">
 
-I'm always interested in collaborating on:
+<a href="mailto:taniia.webdev@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/tania9">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://tania-webdev.vercel.app">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-- Full Stack Web Applications
-- Open Source Projects
-- React & Next.js Projects
-- Backend API Development
-- Learning Communities
-- Innovative Software Ideas
-
-Feel free to reach out!
-
-</details>
-
----
-
-# 🎉 Fun Fact
-
-> I genuinely enjoy learning new technologies, solving real-world problems, and turning ideas into meaningful software.
+</div>
 
 ---
 
-# 📫 Contact
+<div align="center">
 
-📧 **Email**
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-<!-- Replace YOUR_EMAIL -->
+<br/>
 
-**YOUR_EMAIL**
+⭐️ **From [taniashahida-dev](https://github.com/taniashahida-dev) — thanks for stopping by!**
 
-🌐 **Portfolio**
-
-<!-- Replace YOUR_PORTFOLIO -->
-
-**YOUR_PORTFOLIO**
-
-💼 **LinkedIn**
-
-<!-- Replace YOUR_LINKEDIN -->
-
-**YOUR_LINKEDIN**
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> **"First, solve the problem. Then, write the code."**  
-> — John Johnson
-
----
-
-<p align="center">
-
-### Thanks for visiting my profile!
-
-If you enjoy my work, consider giving a ⭐ to the repositories you like.
-
-</p>
+</div>
