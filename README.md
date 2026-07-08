@@ -119,19 +119,19 @@ Visualizes GitHub activity and contributions in a custom dashboard.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=16302A&title_color=D4BC8B&icon_color=D4BC8B&text_color=E8E0D0&ring_color=D4BC8B" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=16302A&title_color=D4BC8B&text_color=E8E0D0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=taniashahida-dev&show_icons=true&hide_border=true&bg_color=16302A&title_color=D4BC8B&icon_color=D4BC8B&text_color=E8E0D0&ring_color=D4BC8B" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniashahida-dev&layout=compact&hide_border=true&bg_color=16302A&title_color=D4BC8B&text_color=E8E0D0" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&hide_border=true&background=16302A&ring=D4BC8B&fire=D4BC8B&currStreakLabel=D4BC8B&sideNums=E8E0D0&currStreakNum=E8E0D0&sideLabels=E8E0D0&dates=8A9A93" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=taniashahida-dev&hide_border=true&background=16302A&ring=D4BC8B&fire=D4BC8B&currStreakLabel=D4BC8B&sideNums=E8E0D0&currStreakNum=E8E0D0&sideLabels=E8E0D0&dates=8A9A93" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=16302A&color=D4BC8B&line=D4BC8B&point=E8E0D0&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taniashahida-dev&bg_color=16302A&color=D4BC8B&line=D4BC8B&point=E8E0D0&area=true&hide_border=true" />
 </div>
 
 <br/>
@@ -140,18 +140,13 @@ Visualizes GitHub activity and contributions in a custom dashboard.
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/tania9" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-16302A?style=for-the-badge&logo=linkedin&logoColor=D4BC8B" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:taniia.webdev@gmail.com">
 <img src="https://img.shields.io/badge/Email-16302A?style=for-the-badge&logo=gmail&logoColor=D4BC8B" />
 </a>
-<a href="https://t.me/your-telegram" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-16302A?style=for-the-badge&logo=telegram&logoColor=D4BC8B" />
-</a>
-<a href="https://wa.me/your-number" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-16302A?style=for-the-badge&logo=whatsapp&logoColor=D4BC8B" />
-</a>
+
 
 </div>
 
