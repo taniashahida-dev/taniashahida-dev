@@ -5,7 +5,7 @@
 ─────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Tania — Full Stack Web Developer" />
+  <img src="https://claude.ai/public/artifacts/1a049f16-d3b0-45d8-b127-e61d167031d1" width="100%" alt="Tania — Full Stack Web Developer" />
 </div>
 
 <br/>
@@ -14,7 +14,7 @@
   <samp>final-year CS student&nbsp;·&nbsp;building with React, Next.js, Node.js &amp; Express&nbsp;·&nbsp;open to opportunities</samp>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://claude.ai/public/artifacts/7823b2e8-d9ba-44cb-90ca-90280a8fb3a3" width="100%" alt="" />
 
 ## ✦ About Me
 
