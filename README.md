@@ -82,8 +82,8 @@ I'm **Tania** — a final-year Computer Science diploma student at **Chittagong 
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=taniashahida-dev&show_icons=true&include_all_commits=true&bg_color=16211D&title_color=D6BD98&text_color=E9E3D3&icon_color=7C8B6F&ring_color=D6BD98&border_color=3A4639&border_radius=12" alt="Tania's GitHub stats" />
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniashahida-dev&layout=compact&langs_count=8&bg_color=16211D&title_color=D6BD98&text_color=E9E3D3&border_color=3A4639&border_radius=12" alt="Top languages" />
+<img height="185" src="https://taniashahida-dev-github-readme-stat.vercel.app/api?username=taniashahida-dev&show_icons=true&include_all_commits=true&bg_color=16211D&title_color=D6BD98&text_color=E9E3D3&icon_color=7C8B6F&ring_color=D6BD98&border_color=3A4639&border_radius=12" alt="Tania's GitHub stats" />
+<img height="185" src="https://taniashahida-dev-github-readme-stat.vercel.app/api/top-langs/?username=taniashahida-dev&layout=compact&langs_count=8&bg_color=16211D&title_color=D6BD98&text_color=E9E3D3&border_color=3A4639&border_radius=12" alt="Top languages" />
 
 <br/><br/>
 
