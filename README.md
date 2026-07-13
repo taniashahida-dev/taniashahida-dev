@@ -87,7 +87,7 @@ I'm **Tania** — a final-year Computer Science diploma student at **Chittagong 
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=taniashahida-dev&background=16211D&border=3A4639&border_radius=12&ring=D6BD98&fire=D6BD98&currStreakNum=E9E3D3&currStreakLabel=D6BD98&sideNums=E9E3D3&sideLabels=7C8B6F&dates=7C8B6F&stroke=7C8B6F" alt="GitHub streak" />
+<img height="185" src="profile/streak.svg" alt="GitHub streak" />
 
 </div>
 
