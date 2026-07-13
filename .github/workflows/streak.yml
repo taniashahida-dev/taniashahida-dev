@@ -19,8 +19,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           output-path: profile/streak.svg
           timezone: Asia/Dhaka
-          theme: default
           hide-border: true
+          background: "16211D"
+          stroke: "3A4639"
+          ring: "D6BD98"
+          fire: "D6BD98"
+          currStreakNum: "E9E3D3"
+          currStreakLabel: "D6BD98"
+          sideNums: "E9E3D3"
+          sideLabels: "7C8B6F"
+          dates: "7C8B6F"
 
       - name: Commit changes
         run: |
