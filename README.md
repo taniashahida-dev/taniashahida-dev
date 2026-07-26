@@ -36,31 +36,92 @@ I'm **Tania** — a final-year Computer Science diploma student at **Chittagong 
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3" />
+<table>
+<tr>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=html" alt="HTML5" /><br/>
+<sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=css" alt="CSS3" /><br/>
+<sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /><br/>
+<sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=react" alt="React" /><br/>
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /><br/>
+<sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /><br/>
+<sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /><br/>
+<sub><b>Tailwind CSS</b></sub>
+</td>
+</tr>
+</table>
 
-<br/><br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/%E2%9C%A6-BACKEND-7C8B6F?style=for-the-badge&labelColor=16211D" alt="Backend" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js, Express" />
+<table>
+<tr>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /><br/>
+<sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=express" alt="Express.js" /><br/>
+<sub><b>Express.js</b></sub>
+</td>
+</tr>
+</table>
 
-<br/><br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/%E2%9C%A6-DATABASE-D6BD98?style=for-the-badge&labelColor=16211D" alt="Database" />
+<img src="https://img.shields.io/badge/%E2%9C%A6-DATABASE%20%26%20TOOLS-D6BD98?style=for-the-badge&labelColor=16211D" alt="Database & Tools" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
-
-<br/><br/><br/>
-
-<img src="https://img.shields.io/badge/%E2%9C%A6-TOOLS-7C8B6F?style=for-the-badge&labelColor=16211D" alt="Tools" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma&theme=dark" alt="Git, GitHub, VS Code, Vercel, Figma" />
+<table>
+<tr>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /><br/>
+<sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=git" alt="Git" /><br/>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=github" alt="GitHub" /><br/>
+<sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /><br/>
+<sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=figma" alt="Figma" /><br/>
+<sub><b>Figma</b></sub>
+</td>
+<td align="center" width="110">
+<img width="48" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" /><br/>
+<sub><b>Vercel</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
